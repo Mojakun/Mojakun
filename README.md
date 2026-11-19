@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdae,100:3178c6&height=180&section=header&text=Takechi%20Kazuya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%40%20Motobu%2C%20Okinawa&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdae,100:3178c6&height=180&section=header&text=Takechi%20Kazuya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%40%20Okinawa&descAlignY=58&descSize=16" />
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDAE&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Mojakun+%F0%9F%91%8B;Software+Engineer+for+~7+years;Dev+Lead+of+a+mobile+ordering+SaaS;DX+%26+AI+for+Okinawa+businesses+%F0%9F%8C%BA" />
 
-沖縄・本部町に住むソフトウェアエンジニア。飲食店向けモバイルオーダーの開発リードをしています 🌺
+沖縄に住むソフトウェアエンジニア。飲食店向けモバイルオーダーの開発リードをしています 🌺
 
 <a href="https://takechi-kazuya.net/"><img src="https://img.shields.io/badge/Portfolio-takechi--kazuya.net-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
