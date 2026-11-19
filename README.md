@@ -7,7 +7,6 @@
 沖縄・本部町に住むソフトウェアエンジニア。飲食店向けモバイルオーダーの開発リードをしています 🌺
 
 <a href="https://takechi-kazuya.net/"><img src="https://img.shields.io/badge/Portfolio-takechi--kazuya.net-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.instagram.com/mojakun_0809/"><img src="https://img.shields.io/badge/Instagram-@mojakun__0809-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
